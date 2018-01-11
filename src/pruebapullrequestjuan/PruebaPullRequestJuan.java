@@ -11,6 +11,8 @@ public class PruebaPullRequestJuan {
         System.out.println("Prueba de un pull Request");
         //prueba Juan
         //Cambio primero
+        //Ahora un mensaje
+        System.out.println("He añadido cosas");
     }
     
 }
